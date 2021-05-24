@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+F:\!!!___NB\ооп\lab6\Project6.1\Array.h(22,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.h(24,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.h(25,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.h(27,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.h(39,18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.h(40,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.h(41,65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.cpp(9,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.cpp(17,90): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.cpp(28,92): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.cpp(39,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.cpp(61,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.cpp(66,84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab6\Project6.1\Array.cpp(73,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     Creating library F:\!!!___NB\ооп\lab6\Project6.1\Debug\UnitTest1.lib and object F:\!!!___NB\ооп\lab6\Project6.1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> F:\!!!___NB\ооп\lab6\Project6.1\Debug\UnitTest1.dll
